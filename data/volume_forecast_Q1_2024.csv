@@ -1,0 +1,221 @@
+Entity,Country,Product,Forecast_Category,Submission date,Committ,Quarter,Forecast_Value,Submission_quarter
+FreeISTs,Country,G360CDx,Volume,2023-12-09,First submission,Q1 2024,20.0,Q1_2024
+FreeISTs,Country,G360 Infinity,Volume,2023-12-09,First submission,Q1 2024,54.0,Q1_2024
+FreeISTs,Country,Reveal,Volume,2023-12-09,First submission,Q1 2024,235.0,Q1_2024
+FreeISTs,Country,Shield,Volume,2023-12-09,First submission,Q1 2024,0.0,Q1_2024
+France,Country,G360CDx,Volume,2023-12-09,First submission,Q1 2024,50.0,Q1_2024
+France,Country,G360 Infinity,Volume,2023-12-09,First submission,Q1 2024,0.0,Q1_2024
+France,Country,Reveal,Volume,2023-12-09,First submission,Q1 2024,0.0,Q1_2024
+France,Country,Shield,Volume,2023-12-09,First submission,Q1 2024,0.0,Q1_2024
+Canada,Country,G360CDx,Volume,2023-12-09,First submission,Q1 2024,30.0,Q1_2024
+Canada,Country,G360 Infinity,Volume,2023-12-09,First submission,Q1 2024,9.0,Q1_2024
+Canada,Country,Reveal,Volume,2023-12-09,First submission,Q1 2024,10.0,Q1_2024
+Canada,Country,Shield,Volume,2023-12-09,First submission,Q1 2024,5.0,Q1_2024
+Spain,Country,G360CDx,Volume,2023-12-09,First submission,Q1 2024,45.0,Q1_2024
+Spain,Country,G360 Infinity,Volume,2023-12-09,First submission,Q1 2024,0.0,Q1_2024
+Spain,Country,Reveal,Volume,2023-12-09,First submission,Q1 2024,0.0,Q1_2024
+Spain,Country,Shield,Volume,2023-12-09,First submission,Q1 2024,0.0,Q1_2024
+South,Country,G360CDx,Volume,2023-12-09,First submission,Q1 2024,86.0,Q1_2024
+South,Country,G360 Infinity,Volume,2023-12-09,First submission,Q1 2024,15.0,Q1_2024
+South,Country,Reveal,Volume,2023-12-09,First submission,Q1 2024,0.0,Q1_2024
+South,Country,Shield,Volume,2023-12-09,First submission,Q1 2024,0.0,Q1_2024
+RestEUAA,Country,G360CDx,Volume,2023-12-09,First submission,Q1 2024,5,Q1_2024
+RestEUAA,Country,G360 Infinity,Volume,2023-12-09,First submission,Q1 2024,0,Q1_2024
+RestEUAA,Country,Reveal,Volume,2023-12-09,First submission,Q1 2024,0,Q1_2024
+RestEUAA,Country,Shield,Volume,2023-12-09,First submission,Q1 2024,5,Q1_2024
+United,Country,G360CDx,Volume,2023-12-09,First submission,Q1 2024,132.0,Q1_2024
+United,Country,G360 Infinity,Volume,2023-12-09,First submission,Q1 2024,5.0,Q1_2024
+United,Country,Reveal,Volume,2023-12-09,First submission,Q1 2024,5.0,Q1_2024
+United,Country,Shield,Volume,2023-12-09,First submission,Q1 2024,0.0,Q1_2024
+ ProspectivePaid,Country,G360CDx,Volume,2023-12-09,First submission,Q1 2024,75.0,Q1_2024
+ ProspectivePaid,Country,G360 Infinity,Volume,2023-12-09,First submission,Q1 2024,22.0,Q1_2024
+ ProspectivePaid,Country,Reveal,Volume,2023-12-09,First submission,Q1 2024,0.0,Q1_2024
+ ProspectivePaid,Country,Shield,Volume,2023-12-09,First submission,Q1 2024,0.0,Q1_2024
+RetrospectivePaid,Country,G360CDx,Volume,2023-12-09,First submission,Q1 2024,132.0,Q1_2024
+RetrospectivePaid,Country,G360 Infinity,Volume,2023-12-09,First submission,Q1 2024,8.0,Q1_2024
+RetrospectivePaid,Country,Reveal,Volume,2023-12-09,First submission,Q1 2024,0.0,Q1_2024
+RetrospectivePaid,Country,Shield,Volume,2023-12-09,First submission,Q1 2024,0.0,Q1_2024
+Italy,Country,G360CDx,Volume,2023-12-09,First submission,Q1 2024,60.0,Q1_2024
+Italy,Country,G360 Infinity,Volume,2023-12-09,First submission,Q1 2024,0.0,Q1_2024
+Italy,Country,Reveal,Volume,2023-12-09,First submission,Q1 2024,0.0,Q1_2024
+Italy,Country,Shield,Volume,2023-12-09,First submission,Q1 2024,0.0,Q1_2024
+Turkey,Country,G360CDx,Volume,2023-12-09,First submission,Q1 2024,30.0,Q1_2024
+Turkey,Country,G360 Infinity,Volume,2023-12-09,First submission,Q1 2024,40.0,Q1_2024
+Turkey,Country,Reveal,Volume,2023-12-09,First submission,Q1 2024,25.0,Q1_2024
+Turkey,Country,Shield,Volume,2023-12-09,First submission,Q1 2024,0.0,Q1_2024
+FreeISTs,Country,G360CDx,Volume,2023-12-09,First submission,Q2 2024,30.0,Q1_2024
+FreeISTs,Country,G360 Infinity,Volume,2023-12-09,First submission,Q2 2024,214.0,Q1_2024
+FreeISTs,Country,Reveal,Volume,2023-12-09,First submission,Q2 2024,188.0,Q1_2024
+FreeISTs,Country,Shield,Volume,2023-12-09,First submission,Q2 2024,0.0,Q1_2024
+France,Country,G360CDx,Volume,2023-12-09,First submission,Q2 2024,100.0,Q1_2024
+France,Country,G360 Infinity,Volume,2023-12-09,First submission,Q2 2024,0.0,Q1_2024
+France,Country,Reveal,Volume,2023-12-09,First submission,Q2 2024,0.0,Q1_2024
+France,Country,Shield,Volume,2023-12-09,First submission,Q2 2024,0.0,Q1_2024
+Canada,Country,G360CDx,Volume,2023-12-09,First submission,Q2 2024,40.0,Q1_2024
+Canada,Country,G360 Infinity,Volume,2023-12-09,First submission,Q2 2024,12.0,Q1_2024
+Canada,Country,Reveal,Volume,2023-12-09,First submission,Q2 2024,15.0,Q1_2024
+Canada,Country,Shield,Volume,2023-12-09,First submission,Q2 2024,10.0,Q1_2024
+Spain,Country,G360CDx,Volume,2023-12-09,First submission,Q2 2024,45.0,Q1_2024
+Spain,Country,G360 Infinity,Volume,2023-12-09,First submission,Q2 2024,0.0,Q1_2024
+Spain,Country,Reveal,Volume,2023-12-09,First submission,Q2 2024,0.0,Q1_2024
+Spain,Country,Shield,Volume,2023-12-09,First submission,Q2 2024,0.0,Q1_2024
+South,Country,G360CDx,Volume,2023-12-09,First submission,Q2 2024,107.0,Q1_2024
+South,Country,G360 Infinity,Volume,2023-12-09,First submission,Q2 2024,18.0,Q1_2024
+South,Country,Reveal,Volume,2023-12-09,First submission,Q2 2024,5.0,Q1_2024
+South,Country,Shield,Volume,2023-12-09,First submission,Q2 2024,0.0,Q1_2024
+RestEUAA,Country,G360CDx,Volume,2023-12-09,First submission,Q2 2024,5,Q1_2024
+RestEUAA,Country,G360 Infinity,Volume,2023-12-09,First submission,Q2 2024,0,Q1_2024
+RestEUAA,Country,Reveal,Volume,2023-12-09,First submission,Q2 2024,0,Q1_2024
+RestEUAA,Country,Shield,Volume,2023-12-09,First submission,Q2 2024,10,Q1_2024
+United,Country,G360CDx,Volume,2023-12-09,First submission,Q2 2024,152.0,Q1_2024
+United,Country,G360 Infinity,Volume,2023-12-09,First submission,Q2 2024,5.0,Q1_2024
+United,Country,Reveal,Volume,2023-12-09,First submission,Q2 2024,5.0,Q1_2024
+United,Country,Shield,Volume,2023-12-09,First submission,Q2 2024,0.0,Q1_2024
+ ProspectivePaid,Country,G360CDx,Volume,2023-12-09,First submission,Q2 2024,45.0,Q1_2024
+ ProspectivePaid,Country,G360 Infinity,Volume,2023-12-09,First submission,Q2 2024,52.0,Q1_2024
+ ProspectivePaid,Country,Reveal,Volume,2023-12-09,First submission,Q2 2024,0.0,Q1_2024
+ ProspectivePaid,Country,Shield,Volume,2023-12-09,First submission,Q2 2024,0.0,Q1_2024
+RetrospectivePaid,Country,G360CDx,Volume,2023-12-09,First submission,Q2 2024,50.0,Q1_2024
+RetrospectivePaid,Country,G360 Infinity,Volume,2023-12-09,First submission,Q2 2024,0.0,Q1_2024
+RetrospectivePaid,Country,Reveal,Volume,2023-12-09,First submission,Q2 2024,60.0,Q1_2024
+RetrospectivePaid,Country,Shield,Volume,2023-12-09,First submission,Q2 2024,0.0,Q1_2024
+Italy,Country,G360CDx,Volume,2023-12-09,First submission,Q2 2024,80.0,Q1_2024
+Italy,Country,G360 Infinity,Volume,2023-12-09,First submission,Q2 2024,0.0,Q1_2024
+Italy,Country,Reveal,Volume,2023-12-09,First submission,Q2 2024,0.0,Q1_2024
+Italy,Country,Shield,Volume,2023-12-09,First submission,Q2 2024,0.0,Q1_2024
+Turkey,Country,G360CDx,Volume,2023-12-09,First submission,Q2 2024,40.0,Q1_2024
+Turkey,Country,G360 Infinity,Volume,2023-12-09,First submission,Q2 2024,50.0,Q1_2024
+Turkey,Country,Reveal,Volume,2023-12-09,First submission,Q2 2024,30.0,Q1_2024
+Turkey,Country,Shield,Volume,2023-12-09,First submission,Q2 2024,0.0,Q1_2024
+FreeISTs,Country,G360CDx,Volume,2023-12-09,First submission,Q3 2024,30.0,Q1_2024
+FreeISTs,Country,G360 Infinity,Volume,2023-12-09,First submission,Q3 2024,0.0,Q1_2024
+FreeISTs,Country,Reveal,Volume,2023-12-09,First submission,Q3 2024,1165.0,Q1_2024
+FreeISTs,Country,Shield,Volume,2023-12-09,First submission,Q3 2024,0.0,Q1_2024
+France,Country,G360CDx,Volume,2023-12-09,First submission,Q3 2024,140.0,Q1_2024
+France,Country,G360 Infinity,Volume,2023-12-09,First submission,Q3 2024,0.0,Q1_2024
+France,Country,Reveal,Volume,2023-12-09,First submission,Q3 2024,0.0,Q1_2024
+France,Country,Shield,Volume,2023-12-09,First submission,Q3 2024,0.0,Q1_2024
+Canada,Country,G360CDx,Volume,2023-12-09,First submission,Q3 2024,50.0,Q1_2024
+Canada,Country,G360 Infinity,Volume,2023-12-09,First submission,Q3 2024,15.0,Q1_2024
+Canada,Country,Reveal,Volume,2023-12-09,First submission,Q3 2024,20.0,Q1_2024
+Canada,Country,Shield,Volume,2023-12-09,First submission,Q3 2024,15.0,Q1_2024
+Spain,Country,G360CDx,Volume,2023-12-09,First submission,Q3 2024,45.0,Q1_2024
+Spain,Country,G360 Infinity,Volume,2023-12-09,First submission,Q3 2024,0.0,Q1_2024
+Spain,Country,Reveal,Volume,2023-12-09,First submission,Q3 2024,0.0,Q1_2024
+Spain,Country,Shield,Volume,2023-12-09,First submission,Q3 2024,0.0,Q1_2024
+South,Country,G360CDx,Volume,2023-12-09,First submission,Q3 2024,125.0,Q1_2024
+South,Country,G360 Infinity,Volume,2023-12-09,First submission,Q3 2024,22.0,Q1_2024
+South,Country,Reveal,Volume,2023-12-09,First submission,Q3 2024,15.0,Q1_2024
+South,Country,Shield,Volume,2023-12-09,First submission,Q3 2024,0.0,Q1_2024
+RestEUAA,Country,G360CDx,Volume,2023-12-09,First submission,Q3 2024,5,Q1_2024
+RestEUAA,Country,G360 Infinity,Volume,2023-12-09,First submission,Q3 2024,0,Q1_2024
+RestEUAA,Country,Reveal,Volume,2023-12-09,First submission,Q3 2024,0,Q1_2024
+RestEUAA,Country,Shield,Volume,2023-12-09,First submission,Q3 2024,15,Q1_2024
+United,Country,G360CDx,Volume,2023-12-09,First submission,Q3 2024,174.0,Q1_2024
+United,Country,G360 Infinity,Volume,2023-12-09,First submission,Q3 2024,5.0,Q1_2024
+United,Country,Reveal,Volume,2023-12-09,First submission,Q3 2024,5.0,Q1_2024
+United,Country,Shield,Volume,2023-12-09,First submission,Q3 2024,0.0,Q1_2024
+ ProspectivePaid,Country,G360CDx,Volume,2023-12-09,First submission,Q3 2024,45.0,Q1_2024
+ ProspectivePaid,Country,G360 Infinity,Volume,2023-12-09,First submission,Q3 2024,47.0,Q1_2024
+ ProspectivePaid,Country,Reveal,Volume,2023-12-09,First submission,Q3 2024,0.0,Q1_2024
+ ProspectivePaid,Country,Shield,Volume,2023-12-09,First submission,Q3 2024,0.0,Q1_2024
+RetrospectivePaid,Country,G360CDx,Volume,2023-12-09,First submission,Q3 2024,50.0,Q1_2024
+RetrospectivePaid,Country,G360 Infinity,Volume,2023-12-09,First submission,Q3 2024,0.0,Q1_2024
+RetrospectivePaid,Country,Reveal,Volume,2023-12-09,First submission,Q3 2024,0.0,Q1_2024
+RetrospectivePaid,Country,Shield,Volume,2023-12-09,First submission,Q3 2024,0.0,Q1_2024
+Italy,Country,G360CDx,Volume,2023-12-09,First submission,Q3 2024,100.0,Q1_2024
+Italy,Country,G360 Infinity,Volume,2023-12-09,First submission,Q3 2024,0.0,Q1_2024
+Italy,Country,Reveal,Volume,2023-12-09,First submission,Q3 2024,0.0,Q1_2024
+Italy,Country,Shield,Volume,2023-12-09,First submission,Q3 2024,0.0,Q1_2024
+Turkey,Country,G360CDx,Volume,2023-12-09,First submission,Q3 2024,40.0,Q1_2024
+Turkey,Country,G360 Infinity,Volume,2023-12-09,First submission,Q3 2024,55.0,Q1_2024
+Turkey,Country,Reveal,Volume,2023-12-09,First submission,Q3 2024,35.0,Q1_2024
+Turkey,Country,Shield,Volume,2023-12-09,First submission,Q3 2024,0.0,Q1_2024
+FreeISTs,Country,G360CDx,Volume,2023-12-09,First submission,Q4 2024,30.0,Q1_2024
+FreeISTs,Country,G360 Infinity,Volume,2023-12-09,First submission,Q4 2024,0.0,Q1_2024
+FreeISTs,Country,Reveal,Volume,2023-12-09,First submission,Q4 2024,3165.0,Q1_2024
+FreeISTs,Country,Shield,Volume,2023-12-09,First submission,Q4 2024,0.0,Q1_2024
+France,Country,G360CDx,Volume,2023-12-09,First submission,Q4 2024,219.0,Q1_2024
+France,Country,G360 Infinity,Volume,2023-12-09,First submission,Q4 2024,0.0,Q1_2024
+France,Country,Reveal,Volume,2023-12-09,First submission,Q4 2024,0.0,Q1_2024
+France,Country,Shield,Volume,2023-12-09,First submission,Q4 2024,0.0,Q1_2024
+Canada,Country,G360CDx,Volume,2023-12-09,First submission,Q4 2024,60.0,Q1_2024
+Canada,Country,G360 Infinity,Volume,2023-12-09,First submission,Q4 2024,18.0,Q1_2024
+Canada,Country,Reveal,Volume,2023-12-09,First submission,Q4 2024,25.0,Q1_2024
+Canada,Country,Shield,Volume,2023-12-09,First submission,Q4 2024,20.0,Q1_2024
+Spain,Country,G360CDx,Volume,2023-12-09,First submission,Q4 2024,45.0,Q1_2024
+Spain,Country,G360 Infinity,Volume,2023-12-09,First submission,Q4 2024,0.0,Q1_2024
+Spain,Country,Reveal,Volume,2023-12-09,First submission,Q4 2024,0.0,Q1_2024
+Spain,Country,Shield,Volume,2023-12-09,First submission,Q4 2024,0.0,Q1_2024
+South,Country,G360CDx,Volume,2023-12-09,First submission,Q4 2024,134.0,Q1_2024
+South,Country,G360 Infinity,Volume,2023-12-09,First submission,Q4 2024,23.0,Q1_2024
+South,Country,Reveal,Volume,2023-12-09,First submission,Q4 2024,30.0,Q1_2024
+South,Country,Shield,Volume,2023-12-09,First submission,Q4 2024,0.0,Q1_2024
+RestEUAA,Country,G360CDx,Volume,2023-12-09,First submission,Q4 2024,5,Q1_2024
+RestEUAA,Country,G360 Infinity,Volume,2023-12-09,First submission,Q4 2024,0,Q1_2024
+RestEUAA,Country,Reveal,Volume,2023-12-09,First submission,Q4 2024,0,Q1_2024
+RestEUAA,Country,Shield,Volume,2023-12-09,First submission,Q4 2024,20,Q1_2024
+United,Country,G360CDx,Volume,2023-12-09,First submission,Q4 2024,232.0,Q1_2024
+United,Country,G360 Infinity,Volume,2023-12-09,First submission,Q4 2024,5.0,Q1_2024
+United,Country,Reveal,Volume,2023-12-09,First submission,Q4 2024,5.0,Q1_2024
+United,Country,Shield,Volume,2023-12-09,First submission,Q4 2024,0.0,Q1_2024
+ ProspectivePaid,Country,G360CDx,Volume,2023-12-09,First submission,Q4 2024,45.0,Q1_2024
+ ProspectivePaid,Country,G360 Infinity,Volume,2023-12-09,First submission,Q4 2024,7.0,Q1_2024
+ ProspectivePaid,Country,Reveal,Volume,2023-12-09,First submission,Q4 2024,0.0,Q1_2024
+ ProspectivePaid,Country,Shield,Volume,2023-12-09,First submission,Q4 2024,0.0,Q1_2024
+RetrospectivePaid,Country,G360CDx,Volume,2023-12-09,First submission,Q4 2024,50.0,Q1_2024
+RetrospectivePaid,Country,G360 Infinity,Volume,2023-12-09,First submission,Q4 2024,0.0,Q1_2024
+RetrospectivePaid,Country,Reveal,Volume,2023-12-09,First submission,Q4 2024,0.0,Q1_2024
+RetrospectivePaid,Country,Shield,Volume,2023-12-09,First submission,Q4 2024,0.0,Q1_2024
+Italy,Country,G360CDx,Volume,2023-12-09,First submission,Q4 2024,220.0,Q1_2024
+Italy,Country,G360 Infinity,Volume,2023-12-09,First submission,Q4 2024,0.0,Q1_2024
+Italy,Country,Reveal,Volume,2023-12-09,First submission,Q4 2024,0.0,Q1_2024
+Italy,Country,Shield,Volume,2023-12-09,First submission,Q4 2024,0.0,Q1_2024
+Turkey,Country,G360CDx,Volume,2023-12-09,First submission,Q4 2024,40.0,Q1_2024
+Turkey,Country,G360 Infinity,Volume,2023-12-09,First submission,Q4 2024,60.0,Q1_2024
+Turkey,Country,Reveal,Volume,2023-12-09,First submission,Q4 2024,35.0,Q1_2024
+Turkey,Country,Shield,Volume,2023-12-09,First submission,Q4 2024,0.0,Q1_2024
+FreeISTs,Country,G360CDx,Volume,2023-12-09,First submission,Q1 2025,30.0,Q1_2024
+FreeISTs,Country,G360 Infinity,Volume,2023-12-09,First submission,Q1 2025,0.0,Q1_2024
+FreeISTs,Country,Reveal,Volume,2023-12-09,First submission,Q1 2025,165.0,Q1_2024
+FreeISTs,Country,Shield,Volume,2023-12-09,First submission,Q1 2025,0.0,Q1_2024
+France,Country,G360CDx,Volume,2023-12-09,First submission,Q1 2025,,Q1_2024
+France,Country,G360 Infinity,Volume,2023-12-09,First submission,Q1 2025,,Q1_2024
+France,Country,Reveal,Volume,2023-12-09,First submission,Q1 2025,,Q1_2024
+France,Country,Shield,Volume,2023-12-09,First submission,Q1 2025,,Q1_2024
+Canada,Country,G360CDx,Volume,2023-12-09,First submission,Q1 2025,0.0,Q1_2024
+Canada,Country,G360 Infinity,Volume,2023-12-09,First submission,Q1 2025,0.0,Q1_2024
+Canada,Country,Reveal,Volume,2023-12-09,First submission,Q1 2025,0.0,Q1_2024
+Canada,Country,Shield,Volume,2023-12-09,First submission,Q1 2025,0.0,Q1_2024
+Spain,Country,G360CDx,Volume,2023-12-09,First submission,Q1 2025,,Q1_2024
+Spain,Country,G360 Infinity,Volume,2023-12-09,First submission,Q1 2025,,Q1_2024
+Spain,Country,Reveal,Volume,2023-12-09,First submission,Q1 2025,,Q1_2024
+Spain,Country,Shield,Volume,2023-12-09,First submission,Q1 2025,,Q1_2024
+South,Country,G360CDx,Volume,2023-12-09,First submission,Q1 2025,,Q1_2024
+South,Country,G360 Infinity,Volume,2023-12-09,First submission,Q1 2025,,Q1_2024
+South,Country,Reveal,Volume,2023-12-09,First submission,Q1 2025,,Q1_2024
+South,Country,Shield,Volume,2023-12-09,First submission,Q1 2025,,Q1_2024
+RestEUAA,Country,G360CDx,Volume,2023-12-09,First submission,Q1 2025,,Q1_2024
+RestEUAA,Country,G360 Infinity,Volume,2023-12-09,First submission,Q1 2025,,Q1_2024
+RestEUAA,Country,Reveal,Volume,2023-12-09,First submission,Q1 2025,,Q1_2024
+RestEUAA,Country,Shield,Volume,2023-12-09,First submission,Q1 2025,,Q1_2024
+United,Country,G360CDx,Volume,2023-12-09,First submission,Q1 2025,,Q1_2024
+United,Country,G360 Infinity,Volume,2023-12-09,First submission,Q1 2025,,Q1_2024
+United,Country,Reveal,Volume,2023-12-09,First submission,Q1 2025,,Q1_2024
+United,Country,Shield,Volume,2023-12-09,First submission,Q1 2025,,Q1_2024
+ ProspectivePaid,Country,G360CDx,Volume,2023-12-09,First submission,Q1 2025,45.0,Q1_2024
+ ProspectivePaid,Country,G360 Infinity,Volume,2023-12-09,First submission,Q1 2025,7.0,Q1_2024
+ ProspectivePaid,Country,Reveal,Volume,2023-12-09,First submission,Q1 2025,0.0,Q1_2024
+ ProspectivePaid,Country,Shield,Volume,2023-12-09,First submission,Q1 2025,0.0,Q1_2024
+RetrospectivePaid,Country,G360CDx,Volume,2023-12-09,First submission,Q1 2025,50.0,Q1_2024
+RetrospectivePaid,Country,G360 Infinity,Volume,2023-12-09,First submission,Q1 2025,0.0,Q1_2024
+RetrospectivePaid,Country,Reveal,Volume,2023-12-09,First submission,Q1 2025,0.0,Q1_2024
+RetrospectivePaid,Country,Shield,Volume,2023-12-09,First submission,Q1 2025,0.0,Q1_2024
+Italy,Country,G360CDx,Volume,2023-12-09,First submission,Q1 2025,,Q1_2024
+Italy,Country,G360 Infinity,Volume,2023-12-09,First submission,Q1 2025,,Q1_2024
+Italy,Country,Reveal,Volume,2023-12-09,First submission,Q1 2025,,Q1_2024
+Italy,Country,Shield,Volume,2023-12-09,First submission,Q1 2025,,Q1_2024
+Turkey,Country,G360CDx,Volume,2023-12-09,First submission,Q1 2025,,Q1_2024
+Turkey,Country,G360 Infinity,Volume,2023-12-09,First submission,Q1 2025,,Q1_2024
+Turkey,Country,Reveal,Volume,2023-12-09,First submission,Q1 2025,,Q1_2024
+Turkey,Country,Shield,Volume,2023-12-09,First submission,Q1 2025,,Q1_2024
